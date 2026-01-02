@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Selenium / browser downloads
+Downloads/
+
+# SQLite DB
+*.db
+
+# OS-specific
+.DS_Store
+
